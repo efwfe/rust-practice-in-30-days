@@ -1,0 +1,1 @@
+/Users/pooh/codes2/rustProjects/rust-practice-in-30-days/day1-variable-bingding/target/debug/day1-variable-bingding: /Users/pooh/codes2/rustProjects/rust-practice-in-30-days/day1-variable-bingding/src/main.rs
