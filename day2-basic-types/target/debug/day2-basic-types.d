@@ -1,0 +1,1 @@
+/Users/pooh/codes2/rustProjects/rust-practice-in-30-days/day2-basic-types/target/debug/day2-basic-types: /Users/pooh/codes2/rustProjects/rust-practice-in-30-days/day2-basic-types/src/lib.rs /Users/pooh/codes2/rustProjects/rust-practice-in-30-days/day2-basic-types/src/main.rs
