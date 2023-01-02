@@ -46,6 +46,9 @@ fn main() {
     [..,y] = [1, 2];
     assert_eq!([x, y], [3, 2]);
     
+
+    // ============  practice ===============
+    number_type();
 }
 
 
